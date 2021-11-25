@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Niko
-- 🌱 I’m currently learning C#/WebDevelopment as part of my ComputerScience study.
+- :bulb: I’m currently learning C#/WebDevelopment as part of my ComputerScience study.
